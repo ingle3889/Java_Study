@@ -7,6 +7,3 @@ public class Removesecchar
 			System.out.println(str);  
 		}  
 	} 
-table, th, td {
-  border: 1px solid black;
-}
